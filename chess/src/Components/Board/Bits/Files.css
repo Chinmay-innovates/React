@@ -1,0 +1,9 @@
+.files {
+  color: var(--dark-tile);
+  height: calc(0.15 * var(--tile-size));
+  /* grid-column: 2; */
+  justify-content: space-around;
+  align-items: center;
+  margin-left: 3.6rem;
+  margin-right: 10px;
+}
